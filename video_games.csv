@@ -1,0 +1,201 @@
+title,genre,platform,publisher,year,critic_score,user_score,global_sales_millions,na_sales,eu_sales,multiplayer,rating
+Game_001,RPG,PC,Square Enix,2021,76.9,8.3,4.18,1.36,1.19,Yes,E
+Game_002,Shooter,PlayStation,Square Enix,2018,59.7,5.4,3.13,1.33,0.91,Yes,E
+Game_003,Sports,Nintendo Switch,Activision,2015,63.8,6.9,3.79,1.24,0.83,Yes,M
+Game_004,Strategy,PC,Activision,2021,71.0,7.2,6.94,3.23,2.54,No,T
+Game_005,Simulation,PlayStation,Activision,2021,86.3,9.1,5.02,2.8,1.88,Yes,T
+Game_006,Racing,Xbox,Activision,2012,63.3,6.7,0.94,0.45,0.22,No,E10+
+Game_007,Sports,Nintendo Switch,Nintendo,2016,62.2,8.0,3.02,1.53,1.11,Yes,E10+
+Game_008,Action,Xbox,Microsoft,2016,71.2,7.7,7.72,2.81,2.31,No,M
+Game_009,Sports,Xbox,Valve,2012,65.3,7.6,1.03,0.44,0.32,Yes,E10+
+Game_010,Sports,Mobile,Ubisoft,2017,67.6,6.9,0.67,0.36,0.19,Yes,M
+Game_011,Puzzle,Mobile,EA,2017,48.8,4.5,4.37,2.2,0.97,No,T
+Game_012,Adventure,PC,Sony,2014,66.9,7.0,8.03,4.75,2.83,No,E
+Game_013,Strategy,Mobile,Square Enix,2019,79.1,8.6,1.39,0.8,0.45,Yes,E
+Game_014,RPG,Xbox,Valve,2023,80.6,7.5,1.72,1.0,0.37,Yes,E
+Game_015,Fighting,PlayStation,Square Enix,2012,54.0,3.8,0.15,0.08,0.04,Yes,M
+Game_016,Shooter,Xbox,Square Enix,2016,84.5,8.4,2.67,1.16,0.67,Yes,T
+Game_017,Action,Mobile,EA,2018,72.9,7.8,0.83,0.31,0.32,Yes,E
+Game_018,Fighting,PlayStation,Valve,2014,63.6,5.9,0.54,0.25,0.13,Yes,M
+Game_019,Shooter,PC,EA,2011,64.9,5.9,1.57,0.79,0.62,Yes,E
+Game_020,Puzzle,Xbox,Bandai Namco,2022,79.9,7.5,1.52,0.52,0.36,Yes,E10+
+Game_021,RPG,Nintendo Switch,Square Enix,2022,86.1,7.8,1.44,0.79,0.57,Yes,E10+
+Game_022,Puzzle,Nintendo Switch,Capcom,2017,77.3,8.5,1.02,0.31,0.28,Yes,T
+Game_023,Puzzle,Mobile,EA,2020,73.9,6.9,1.57,0.75,0.49,No,T
+Game_024,Action,PC,EA,2019,49.8,5.2,1.38,0.81,0.3,Yes,E
+Game_025,Simulation,PC,Valve,2020,79.6,7.3,8.08,3.02,2.58,No,E
+Game_026,Puzzle,Mobile,Microsoft,2019,51.9,4.9,0.17,0.06,0.05,No,T
+Game_027,Strategy,Nintendo Switch,Valve,2015,97.1,8.9,1.88,1.13,0.75,Yes,M
+Game_028,Shooter,Mobile,Nintendo,2014,76.2,8.2,0.99,0.41,0.23,No,T
+Game_029,Strategy,Mobile,Sony,2022,75.3,7.4,5.01,2.9,1.11,Yes,T
+Game_030,RPG,PC,Microsoft,2021,70.5,6.8,2.84,1.03,0.93,Yes,M
+Game_031,Racing,Xbox,EA,2023,81.5,8.5,5.49,1.65,1.95,No,T
+Game_032,Sports,Nintendo Switch,Ubisoft,2018,61.5,5.2,0.37,0.17,0.14,No,M
+Game_033,Sports,Nintendo Switch,EA,2012,74.2,7.6,7.47,4.26,1.81,Yes,T
+Game_034,RPG,Xbox,Ubisoft,2022,59.0,5.3,9.06,5.23,2.24,Yes,E10+
+Game_035,Puzzle,PC,Nintendo,2012,74.2,6.7,7.39,2.81,2.64,Yes,M
+Game_036,Action,Nintendo Switch,Nintendo,2013,79.0,9.6,2.02,0.74,0.67,Yes,T
+Game_037,Strategy,PC,Square Enix,2022,73.4,8.5,1.95,0.78,0.4,Yes,E10+
+Game_038,Simulation,Xbox,Microsoft,2010,81.3,8.7,4.32,1.86,1.72,Yes,M
+Game_039,Simulation,PlayStation,Square Enix,2014,83.3,8.6,3.0,1.52,1.16,No,T
+Game_040,Shooter,Xbox,Microsoft,2016,83.4,8.8,2.17,1.08,0.49,Yes,M
+Game_041,Strategy,Nintendo Switch,Capcom,2015,69.2,7.3,0.8,0.4,0.22,No,E10+
+Game_042,Simulation,Mobile,Nintendo,2014,57.3,6.6,0.77,0.33,0.24,No,T
+Game_043,Racing,Nintendo Switch,Ubisoft,2017,62.6,5.4,4.08,2.03,1.05,No,T
+Game_044,Simulation,Xbox,Nintendo,2011,80.0,6.8,3.79,2.05,0.87,Yes,E10+
+Game_045,Racing,Mobile,Valve,2023,69.3,6.1,5.9,2.11,2.0,Yes,M
+Game_046,Shooter,PlayStation,Activision,2020,61.9,4.6,5.02,2.68,1.22,No,M
+Game_047,Racing,PC,Bandai Namco,2018,68.1,8.4,1.93,0.97,0.77,No,T
+Game_048,Racing,Mobile,Square Enix,2023,65.7,5.6,4.72,2.05,1.1,Yes,M
+Game_049,Strategy,PlayStation,Nintendo,2023,64.9,5.5,2.09,0.8,0.45,Yes,E10+
+Game_050,Strategy,Xbox,Capcom,2015,79.2,7.7,1.37,0.7,0.47,Yes,M
+Game_051,Puzzle,Xbox,Capcom,2018,71.5,7.2,5.05,2.88,1.6,No,E
+Game_052,Simulation,Nintendo Switch,Capcom,2017,82.3,8.3,4.62,2.13,1.6,No,E10+
+Game_053,Racing,PlayStation,Capcom,2014,65.8,6.7,1.31,0.68,0.48,Yes,M
+Game_054,Fighting,PC,Capcom,2016,54.6,4.8,0.1,0.03,0.03,Yes,T
+Game_055,Puzzle,Xbox,Sony,2013,66.3,6.8,5.61,2.95,2.05,Yes,E
+Game_056,Racing,PC,Activision,2021,40,3.2,0.1,0.05,0.03,Yes,E10+
+Game_057,Shooter,PC,Valve,2019,73.0,7.6,3.42,2.0,1.0,Yes,T
+Game_058,Sports,Mobile,Ubisoft,2019,80.5,7.8,4.79,2.82,1.06,Yes,T
+Game_059,Simulation,Nintendo Switch,Nintendo,2016,79.2,7.7,3.2,1.06,1.14,No,M
+Game_060,RPG,Mobile,Activision,2022,89.9,9.2,4.2,1.9,1.13,Yes,M
+Game_061,RPG,Nintendo Switch,Capcom,2015,65.6,5.4,3.35,1.18,1.02,No,T
+Game_062,Simulation,Mobile,Sony,2022,62.4,6.3,3.4,1.35,0.85,Yes,T
+Game_063,Racing,PlayStation,EA,2022,54.6,5.7,0.92,0.41,0.24,Yes,E10+
+Game_064,Adventure,Xbox,Square Enix,2015,74.5,8.5,6.03,1.83,2.35,Yes,E10+
+Game_065,Puzzle,Nintendo Switch,Bandai Namco,2018,75.8,6.4,3.38,1.47,0.69,Yes,E10+
+Game_066,Puzzle,PlayStation,Microsoft,2014,70.1,6.3,2.52,1.08,0.88,Yes,T
+Game_067,Racing,Xbox,Activision,2014,68.0,7.2,0.93,0.49,0.36,No,E10+
+Game_068,Shooter,PlayStation,Square Enix,2021,54.0,5.5,9.09,4.35,3.6,Yes,T
+Game_069,Shooter,Xbox,EA,2012,64.9,7.7,0.59,0.35,0.18,No,E10+
+Game_070,Racing,PC,Microsoft,2023,76.2,7.7,2.44,0.87,0.51,Yes,E
+Game_071,RPG,Nintendo Switch,Ubisoft,2017,90.6,9.6,1.67,0.91,0.65,Yes,E10+
+Game_072,RPG,Mobile,Square Enix,2022,66.4,7.2,2.73,1.13,1.04,Yes,M
+Game_073,Puzzle,Xbox,Nintendo,2019,65.1,5.7,3.62,1.77,0.92,Yes,E10+
+Game_074,Shooter,PlayStation,Valve,2018,70.7,7.1,2.03,0.89,0.42,Yes,T
+Game_075,Strategy,Nintendo Switch,Valve,2011,67.3,5.1,4.24,2.11,1.64,Yes,E
+Game_076,Fighting,PlayStation,EA,2020,71.7,7.7,0.97,0.34,0.25,No,M
+Game_077,Strategy,Nintendo Switch,Sony,2011,67.6,6.9,1.67,0.75,0.5,Yes,M
+Game_078,Action,Nintendo Switch,Valve,2021,68.7,7.4,0.67,0.32,0.14,No,T
+Game_079,Simulation,PC,Sony,2022,73.4,6.4,3.31,1.17,1.05,No,M
+Game_080,RPG,Nintendo Switch,Ubisoft,2015,70.6,7.4,0.81,0.32,0.27,Yes,T
+Game_081,Puzzle,Mobile,Capcom,2010,66.7,6.9,1.31,0.73,0.48,Yes,T
+Game_082,Fighting,Nintendo Switch,Bandai Namco,2016,78.4,8.2,3.36,1.64,1.18,Yes,T
+Game_083,Fighting,PlayStation,Valve,2014,52.7,5.7,0.1,0.05,0.03,Yes,M
+Game_084,Action,Mobile,Bandai Namco,2016,98.0,10,8.0,4.67,2.64,Yes,M
+Game_085,Strategy,Mobile,Nintendo,2021,73.2,8.8,10.47,4.58,2.4,Yes,M
+Game_086,Fighting,PlayStation,Microsoft,2023,82.6,8.8,5.95,3.45,1.79,Yes,T
+Game_087,Strategy,Mobile,Square Enix,2019,87.6,8.8,1.78,0.79,0.47,No,M
+Game_088,Racing,Xbox,Nintendo,2023,73.8,8.5,2.81,1.57,0.79,Yes,T
+Game_089,Racing,Nintendo Switch,Ubisoft,2016,85.7,8.5,3.92,1.76,0.81,No,M
+Game_090,Adventure,PC,EA,2023,79.6,7.7,7.01,3.62,1.98,No,E10+
+Game_091,RPG,Nintendo Switch,Activision,2022,86.9,8.6,4.3,2.39,1.59,No,M
+Game_092,Adventure,Nintendo Switch,Sony,2023,63.6,6.1,0.85,0.51,0.3,Yes,E
+Game_093,RPG,Nintendo Switch,EA,2012,70.5,5.4,0.65,0.25,0.18,Yes,E10+
+Game_094,Fighting,Nintendo Switch,Valve,2019,64.4,6.0,0.7,0.39,0.23,Yes,M
+Game_095,Simulation,PlayStation,EA,2013,65.6,6.7,1.02,0.58,0.3,Yes,T
+Game_096,Fighting,PlayStation,Capcom,2011,58.4,6.1,2.13,1.08,0.62,Yes,E10+
+Game_097,Puzzle,Nintendo Switch,Sony,2011,76.0,8.6,2.94,0.9,1.08,Yes,T
+Game_098,Action,Mobile,Valve,2023,65.5,5.3,0.4,0.21,0.15,Yes,E10+
+Game_099,Simulation,Xbox,Ubisoft,2013,63.9,5.5,3.03,1.48,1.15,No,E
+Game_100,Strategy,Nintendo Switch,Sony,2010,61.8,5.6,0.32,0.13,0.09,Yes,E10+
+Game_101,Fighting,Xbox,Bandai Namco,2018,59.0,5.9,0.4,0.24,0.1,Yes,E
+Game_102,Racing,PC,Capcom,2012,68.2,6.2,3.23,1.91,1.17,Yes,E
+Game_103,Puzzle,PC,Sony,2014,64.3,6.2,3.01,1.43,1.1,Yes,E
+Game_104,Shooter,Nintendo Switch,Valve,2010,52.5,3.9,0.62,0.23,0.13,Yes,T
+Game_105,Strategy,Nintendo Switch,Bandai Namco,2011,91.4,10,2.48,0.83,0.61,No,E10+
+Game_106,Puzzle,Nintendo Switch,Capcom,2015,67.1,5.6,7.65,3.64,2.64,Yes,T
+Game_107,RPG,Nintendo Switch,Microsoft,2019,57.4,6.8,0.1,0.04,0.03,Yes,T
+Game_108,RPG,Xbox,Sony,2018,89.7,8.3,1.64,0.59,0.37,Yes,E
+Game_109,Shooter,Mobile,Valve,2010,78.6,8.1,12.16,4.4,4.45,No,E10+
+Game_110,Simulation,PlayStation,Valve,2023,79.1,7.4,1.35,0.41,0.5,Yes,E10+
+Game_111,Fighting,Xbox,EA,2022,73.7,8.4,0.75,0.31,0.27,No,T
+Game_112,Action,PlayStation,Activision,2014,87.6,9.2,3.25,1.44,1.15,No,M
+Game_113,RPG,Nintendo Switch,Square Enix,2018,80.5,9.1,4.27,1.67,1.4,Yes,E
+Game_114,Racing,Nintendo Switch,Activision,2016,63.5,5.5,6.18,3.52,1.64,Yes,E
+Game_115,Sports,Xbox,Valve,2019,56.5,4.9,0.81,0.37,0.24,No,M
+Game_116,RPG,PC,Nintendo,2023,66.4,5.3,2.33,1.0,0.88,Yes,T
+Game_117,Racing,Nintendo Switch,Sony,2016,66.9,6.0,1.28,0.53,0.3,Yes,E
+Game_118,RPG,PC,Ubisoft,2011,63.0,6.8,1.31,0.61,0.42,No,M
+Game_119,Adventure,PC,EA,2016,68.0,7.7,3.87,2.29,1.24,Yes,E
+Game_120,Simulation,Mobile,Microsoft,2013,79.5,8.7,5.67,3.14,1.55,Yes,M
+Game_121,Shooter,Nintendo Switch,Square Enix,2023,54.2,4.9,2.14,0.66,0.82,No,T
+Game_122,Action,PlayStation,EA,2014,69.5,6.3,1.51,0.54,0.35,No,M
+Game_123,RPG,PlayStation,Nintendo,2021,76.3,7.5,4.24,1.75,1.23,Yes,T
+Game_124,Strategy,Xbox,Ubisoft,2022,88.6,8.5,6.8,2.36,2.2,No,E
+Game_125,Strategy,Nintendo Switch,Nintendo,2020,63.9,6.9,1.53,0.81,0.34,Yes,E
+Game_126,Strategy,Mobile,Valve,2017,67.5,6.6,1.0,0.32,0.24,Yes,E10+
+Game_127,Strategy,Xbox,Ubisoft,2015,84.6,9.1,2.64,1.09,0.9,No,M
+Game_128,Adventure,PC,Activision,2016,78.9,7.7,0.99,0.55,0.31,No,M
+Game_129,Puzzle,Xbox,Valve,2011,53.5,6.5,0.14,0.06,0.05,Yes,E
+Game_130,Puzzle,PC,Sony,2013,65.7,6.9,0.49,0.26,0.12,Yes,E
+Game_131,Fighting,PC,Ubisoft,2018,45.3,4.4,0.34,0.13,0.08,Yes,E10+
+Game_132,Simulation,PlayStation,Bandai Namco,2022,73.2,7.0,8.22,3.61,2.57,No,M
+Game_133,Simulation,Mobile,Activision,2015,82.2,7.4,1.52,0.67,0.5,Yes,M
+Game_134,Action,Xbox,Microsoft,2018,81.9,8.6,1.19,0.66,0.26,Yes,M
+Game_135,Simulation,Mobile,EA,2016,60.6,6.3,3.96,1.72,1.43,No,E10+
+Game_136,Adventure,Mobile,Microsoft,2017,51.8,5.2,1.09,0.65,0.24,No,E10+
+Game_137,Action,PlayStation,Ubisoft,2021,62.1,6.5,1.95,0.8,0.75,Yes,M
+Game_138,Adventure,Mobile,Activision,2010,80.5,6.9,1.2,0.56,0.33,Yes,T
+Game_139,Simulation,PlayStation,Sony,2015,85.9,9.2,7.51,4.43,2.55,Yes,E10+
+Game_140,Simulation,PC,Ubisoft,2014,59.6,5.5,0.98,0.49,0.36,No,T
+Game_141,Fighting,PC,Sony,2020,61.3,5.3,0.11,0.04,0.03,Yes,E10+
+Game_142,Shooter,PlayStation,Square Enix,2012,87.1,9.4,1.62,0.89,0.61,Yes,T
+Game_143,Adventure,Mobile,Valve,2012,72.3,7.0,1.11,0.6,0.26,Yes,E
+Game_144,Puzzle,Xbox,Bandai Namco,2020,70.0,4.9,2.86,1.06,0.71,Yes,E10+
+Game_145,Adventure,Mobile,Square Enix,2017,69.1,7.1,1.66,0.71,0.39,Yes,M
+Game_146,Sports,Xbox,Activision,2010,52.1,4.0,1.63,0.84,0.49,Yes,T
+Game_147,RPG,PlayStation,Activision,2014,66.6,7.0,4.78,2.79,1.17,Yes,T
+Game_148,Action,Nintendo Switch,Activision,2010,64.3,6.9,1.44,0.59,0.3,Yes,T
+Game_149,Adventure,PlayStation,Ubisoft,2012,98.7,10,3.53,1.86,1.04,No,E
+Game_150,RPG,PC,Valve,2014,79.2,8.4,8.0,3.67,1.78,Yes,E10+
+Game_151,Strategy,PC,Activision,2010,77.0,8.8,3.29,1.1,1.25,No,M
+Game_152,Action,Mobile,Valve,2019,72.3,7.7,2.02,0.82,0.63,Yes,T
+Game_153,RPG,Mobile,Square Enix,2015,89.1,9.3,3.23,1.5,0.9,Yes,E
+Game_154,Puzzle,Xbox,Nintendo,2014,74.8,6.7,0.92,0.48,0.3,No,T
+Game_155,Adventure,PlayStation,Bandai Namco,2010,71.6,7.7,3.15,1.87,0.93,Yes,E10+
+Game_156,RPG,Nintendo Switch,EA,2010,77.2,7.9,1.42,0.56,0.37,Yes,M
+Game_157,Racing,Xbox,EA,2010,68.1,6.3,1.51,0.85,0.4,Yes,T
+Game_158,Puzzle,Nintendo Switch,Ubisoft,2021,51.7,5.9,0.62,0.28,0.19,No,T
+Game_159,RPG,Nintendo Switch,Sony,2011,48.4,5.9,0.1,0.04,0.02,No,T
+Game_160,Strategy,Nintendo Switch,Bandai Namco,2019,74.8,7.0,2.21,0.69,0.83,Yes,M
+Game_161,Puzzle,Xbox,Capcom,2020,99.1,9.7,2.15,0.88,0.77,No,E10+
+Game_162,Action,PlayStation,Activision,2023,58.4,5.0,0.1,0.04,0.03,Yes,M
+Game_163,Simulation,PC,Bandai Namco,2019,79.2,8.6,2.12,1.12,0.67,No,T
+Game_164,Puzzle,Xbox,Ubisoft,2020,70.4,9.0,0.59,0.26,0.16,No,E
+Game_165,Strategy,Xbox,Bandai Namco,2021,44.4,5.3,0.1,0.04,0.02,Yes,M
+Game_166,Sports,Nintendo Switch,Microsoft,2011,74.7,5.5,11.51,5.9,3.57,Yes,T
+Game_167,Sports,PlayStation,Ubisoft,2022,60.4,6.5,10.54,3.91,3.15,Yes,M
+Game_168,Simulation,Xbox,Activision,2017,77.2,6.8,3.23,1.03,0.9,No,T
+Game_169,Racing,Mobile,Microsoft,2016,70.2,5.5,0.7,0.35,0.2,No,M
+Game_170,Adventure,PlayStation,Ubisoft,2023,79.7,6.8,1.49,0.64,0.57,Yes,E
+Game_171,Fighting,PlayStation,Microsoft,2014,71.5,7.8,3.66,2.14,1.11,Yes,E
+Game_172,Strategy,PlayStation,Valve,2020,83.7,8.2,3.64,1.67,1.09,Yes,M
+Game_173,Simulation,PlayStation,Valve,2012,64.3,5.4,2.54,0.79,0.95,Yes,E
+Game_174,Simulation,Xbox,EA,2020,76.2,8.6,3.22,1.45,1.05,Yes,T
+Game_175,Strategy,Nintendo Switch,Activision,2013,81.1,7.0,1.94,0.98,0.45,Yes,M
+Game_176,Racing,PlayStation,Microsoft,2015,61.2,5.7,3.23,1.91,0.73,Yes,M
+Game_177,Fighting,PC,Ubisoft,2015,67.3,7.1,1.86,0.61,0.48,Yes,M
+Game_178,Puzzle,PlayStation,Microsoft,2023,90.0,8.2,8.28,2.96,1.92,No,M
+Game_179,Racing,Xbox,Nintendo,2017,91.8,9.5,3.35,1.22,0.91,Yes,T
+Game_180,Racing,Mobile,Activision,2023,61.6,5.4,2.0,0.86,0.75,No,T
+Game_181,Puzzle,Xbox,Square Enix,2010,64.5,7.1,0.76,0.3,0.21,Yes,M
+Game_182,Strategy,Mobile,Microsoft,2020,72.0,6.9,0.85,0.46,0.23,Yes,E10+
+Game_183,Shooter,Mobile,Microsoft,2018,67.7,6.9,0.48,0.26,0.15,Yes,M
+Game_184,Fighting,PlayStation,Valve,2015,75.0,7.2,2.0,1.04,0.52,Yes,M
+Game_185,Fighting,Mobile,Microsoft,2017,64.8,5.8,4.47,1.79,0.99,Yes,M
+Game_186,Strategy,PC,Valve,2019,50.2,5.4,3.33,1.58,1.15,No,M
+Game_187,Sports,Mobile,Nintendo,2020,61.9,4.8,1.29,0.4,0.5,Yes,E10+
+Game_188,Action,Nintendo Switch,Square Enix,2015,63.0,6.7,0.72,0.38,0.28,No,T
+Game_189,Action,PlayStation,Square Enix,2018,74.3,8.1,3.43,1.42,1.34,Yes,M
+Game_190,Adventure,Mobile,Sony,2015,68.0,5.4,3.25,1.57,0.78,Yes,T
+Game_191,Fighting,Xbox,Nintendo,2013,93.5,8.5,5.36,2.72,1.6,Yes,T
+Game_192,Fighting,Xbox,Capcom,2014,77.8,8.6,2.09,1.14,0.82,Yes,T
+Game_193,Action,Xbox,Bandai Namco,2021,92.0,10,4.27,1.55,1.56,Yes,M
+Game_194,Strategy,PlayStation,Square Enix,2011,66.1,5.9,1.0,0.37,0.25,Yes,M
+Game_195,Adventure,Nintendo Switch,Ubisoft,2011,74.7,7.1,9.08,3.83,3.52,Yes,M
+Game_196,Shooter,Xbox,Valve,2015,69.2,7.2,4.12,1.52,1.43,Yes,E10+
+Game_197,Puzzle,PlayStation,Sony,2010,85.1,8.5,2.96,1.67,0.6,No,M
+Game_198,RPG,Xbox,Ubisoft,2014,64.3,6.8,2.07,1.15,0.61,Yes,E
+Game_199,Adventure,PlayStation,Microsoft,2021,69.5,7.1,0.99,0.53,0.31,Yes,E10+
+Game_200,Simulation,Nintendo Switch,Activision,2023,65.0,6.8,1.53,0.54,0.35,Yes,E10+
